@@ -19,7 +19,6 @@
 // 1.4 Definir resultado a mostrar (API + ACCIONES USUARIOS -> OUTPUT)
 // - Lista de tareas
 
-
 /*------------------*/
 // 2. PLANIFICACIÓN
 /*------------------*/
@@ -33,8 +32,8 @@
 // - Mejorar maquetación
 
 // 2.2 Tareas concretas --> ganar focus
-// - C1 [HTML] Crear input y button boostrap y dejar espacio para el listado <ul> [1h]
-// - C2 [JS] Definiar las variables que necesitará el programa
-// - C3 [JS] Definir todas las funciones vacias de js
-// - C4 [JS] Rellenar lógica de funciones una a una --> probar --> siguiente
-// - C5 [HTML] Mejorar interficie
+// - C1 [HTML] Implementar bootstrap + crear input y button boostrap y dejar espacio para el listado <ul> [1h]
+// - C2 [JS] Definiar las variables que necesitará el programa [0.5h]
+// - C3 [JS] Definir todas las funciones vacias de js [1h]
+// - C4 [JS] Rellenar lógica de funciones una a una --> probar --> siguiente [3h]
+// - C5 [HTML] Mejorar interficie [2h]
