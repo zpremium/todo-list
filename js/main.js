@@ -32,12 +32,41 @@
 // - Mejorar maquetación
 
 // 2.2 Tareas concretas --> ganar focus
-// - C1 [HTML] Implementar bootstrap + crear input y button boostrap y dejar espacio para el listado <ul> [1h]
-// - C2 [JS] Definiar las variables que necesitará el programa [0.5h]
+// C1 [HTML] Implementar bootstrap + crear input y button boostrap y dejar espacio para el listado <ul> [1h]
+// C2 [JS] Definiar las variables que necesitará el programa [0.5h]
 // - C3 [JS] Definir todas las funciones vacias de js [1h]
 // - C4 [JS] Rellenar lógica de funciones una a una --> probar --> siguiente [3h]
 // - C5 [HTML] Mejorar interficie [2h]
 
-let input = document.getElementById('userInput');
-let enterButton = document.getElementById('button');
-let ul = document.querySelector('ul')
+// ** 1. VARIABLES
+let input = document.getElementById("userInput");
+let enterButton = document.getElementById("button");
+let ul = document.querySelector("ul");
+
+// ** 2. FUNCIONES
+    // AGREGAR TAREA
+    function addListAfterClick() {
+
+    }
+    // ELIMIINAR TAREA
+    function removeList() {
+
+    }
+    // LIMPIAR TAREA
+    function cleanList() {
+
+    }
+    // AÑADIR TAREA EN HTML
+    function createListElement() {
+
+    }
+    // MODIFICAR TAREA
+    function modifyList() {
+        
+    }
+    
+// ** 3. EVENTOS
+
+// CLICK BOTÓN
+
+// APRETAR TECLADO (?)
