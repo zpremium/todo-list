@@ -37,3 +37,7 @@
 // - C3 [JS] Definir todas las funciones vacias de js [1h]
 // - C4 [JS] Rellenar lógica de funciones una a una --> probar --> siguiente [3h]
 // - C5 [HTML] Mejorar interficie [2h]
+
+let input = document.getElementById('userInput');
+let enterButton = document.getElementById('button');
+let ul = document.querySelector('ul')
